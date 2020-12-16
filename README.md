@@ -1,6 +1,6 @@
 # locness's reset
 
-A tiny modern CSS reset that covers the basics:
+Fork of jgthms's [minireset.css](https://github.com/jgthms/minireset.css). A tiny modern CSS reset that covers the basics:
 
 * **resets the font sizes**: so that using semantic markup doesn't affect the styling
 * **resets the block margins**: so that the spacing is only applied when you need it
